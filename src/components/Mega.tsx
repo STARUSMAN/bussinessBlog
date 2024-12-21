@@ -1,4 +1,4 @@
-'use client';
+"use client";
 import React from "react";
 import BlogCard from "../components/BlogCard";
 export default function Mega() {

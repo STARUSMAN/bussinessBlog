@@ -1,8 +1,6 @@
-
 import React from "react";
 import CommentSection from "@/components/CommentsSection";
 import AuthorCard from "@/components/AuthorCard";
-
 
 const posts = [
   {
@@ -88,7 +86,7 @@ const posts = [
 ];
 
 export default async function page({ params }: { params: { id: string } }) {
-  const { id } =await params;
+  const { id } = await params;
   const post = posts.find((p) => p.id === id);
 
   if (!post) {
