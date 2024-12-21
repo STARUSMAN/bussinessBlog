@@ -50,6 +50,7 @@ export default function Navbar() {
           >
             BLOG
           </Link>
+          ``{" "}
           <Link
             href={"http://localhost:3000/contact"}
             className="mr-5 text-white bg-red-700 hover:bg-green-700 rounded

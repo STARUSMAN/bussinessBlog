@@ -1,4 +1,4 @@
-'use client';
+"use client";
 import AuthorCard from "@/components/AuthorCard";
 import Features from "@/components/Features";
 import React from "react";
