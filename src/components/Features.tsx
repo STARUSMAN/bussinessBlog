@@ -12,10 +12,10 @@ export default function Features() {
           {" "}
           Thinking about starting a business this year?
           <br />
-          Whether you're diving into full-time entrepreneurship or planning a
-          side hustle,
+          Whether youre diving into full-time entrepreneurship or planning a
+          side hustle
           <br /> this list of 10 small business ideas is for you. <br />
-          Each idea below is practicaland flexible, with proven potential for
+          Each idea below is practicaland flexible with proven potential for
           success.
           <br /> Whether you start a clothing line, pet business, or wellness
           brand, <br />
@@ -54,7 +54,7 @@ export default function Features() {
             <br /> It should also meet a market need and have the potential to
             generate sustainable, long-term profit.
             <br />
-            Here's a closer look at what makes a strong small business idea:
+            Here,s a closer look at what makes a strong small business idea:
           </p>
 
           <h1 className="text-center text-2xl font-bold md:text-3xl lg:text-center animate-fade-in-up transition-all duration-500 ease-in-out transform hover:tranalate-y-[-5px] hover:text-green-700 text-red-700 ">
@@ -64,8 +64,8 @@ export default function Features() {
             Good small business ideas solve problems for specific groups of
             people. <br />
             Before moving forward with an idea, research your target market,
-            customer needs, and competitors' solutions.
-            <br /> Study your industry's market trends, customer surveys, and
+            customer needs, and competitors solutions.
+            <br /> Study your industry,s market trends, customer surveys, and
             sales data to see what consumers and businesses are doing.
           </p>
           <h1 className="text-center text-2xl font-bold md:text-3xl lg:text-center animate-fade-in-up transition-all duration-500 ease-in-out transform hover:tranalate-y-[-5px] hover:text-green-700 text-red-700 ">
@@ -117,7 +117,7 @@ export default function Features() {
             A sustainable business is one with the potential for long-term
             success.
             <br /> Will your small business be part of a growing industry or a
-            trend that's already peaked? <br />
+            trend that,s already peaked? <br />
             Will your operations align with environmental, social, and
             regulatory expectations? <br />
             Consider the future before launching a new business.
